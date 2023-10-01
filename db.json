@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "title": "iphone 15",
+      "title": "IPhone 15",
       "trending": true,
       "description": "An apple mobile which is nothing like apple",
       "price": 549,
@@ -21,130 +21,134 @@
     },
     {
       "id": 2,
-      "title": "iPhone X",
+      "title": "Samsung S23",
       "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
       "price": 899,
       "discountPercentage": 17.94,
       "rating": 4.44,
       "stock": 34,
-      "brand": "Apple",
+      "brand": "Samsung",
       "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/t/7/r/-original-imagmg6gyxbn4md9.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/2/1.jpg",
-        "https://i.dummyjson.com/data/products/2/2.jpg",
-        "https://i.dummyjson.com/data/products/2/3.jpg",
-        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/8/9/y/-original-imagmg6gzymct4b6.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/z/f/x/-original-imagmg6ggk3u4zge.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/a/f/j/-original-imagmgfrznzeghkj.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/h/v/u/-original-imagmgfryjmxmsgk.jpeg?q=70"
       ]
     },
     {
       "id": 3,
-      "title": "Samsung Universe 9",
+      "title": "Moto Edge 40",
       "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
       "price": 1249,
       "discountPercentage": 15.46,
       "rating": 4.09,
       "stock": 36,
-      "brand": "Samsung",
+      "brand": "Moto",
       "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-      "images": ["https://i.dummyjson.com/data/products/3/1.jpg"]
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/2/m/o/edge-40-pay40030in-motorola-original-imagpqzchzhg6fex.jpeg?q=70",
+      "images": [
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/6/j/w/edge-40-pay40030in-motorola-original-imagpqzcxcbx5spf.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/w/h/z/edge-40-pay40030in-motorola-original-imagpqzcskeah46m.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/b/w/f/edge-40-pay40030in-motorola-original-imagpqzcpahnhdy4.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/x/0/b/edge-40-pay40030in-motorola-original-imagpqzcfqquwgq5.jpeg?q=70"
+      ]
     },
     {
       "id": 4,
-      "title": "OPPOF19",
+      "title": "OPPO Reno 10",
       "description": "OPPO F19 is officially announced on April 2021.",
       "price": 280,
       "discountPercentage": 17.91,
       "rating": 4.3,
       "stock": 123,
-      "brand": "OPPO",
+      "brand": "Oppo",
       "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/3/u/w/-original-imagtcrvzrqnnxpc.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/4/1.jpg",
-        "https://i.dummyjson.com/data/products/4/2.jpg",
-        "https://i.dummyjson.com/data/products/4/3.jpg",
-        "https://i.dummyjson.com/data/products/4/4.jpg",
-        "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/1/t/i/-original-imagrn6ds5mnccnt.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/p/i/0/-original-imagrn6dzkn8gfzt.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/m/q/s/-original-imagrn6dhgnvtjaw.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/a/f/r/-original-imagrn6d4jvpzfeu.jpeg?q=70"
       ]
     },
     {
       "id": 5,
-      "title": "Huawei P30",
+      "title": "One Plus 11",
       "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
       "price": 499,
       "discountPercentage": 10.58,
       "rating": 4.09,
       "stock": 32,
-      "brand": "Huawei",
+      "brand": "One Plus",
       "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/b/j/u/11-5g-b0bqjmrxqv-oneplus-original-imagmugyd8yzjczg.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/5/1.jpg",
-        "https://i.dummyjson.com/data/products/5/2.jpg",
-        "https://i.dummyjson.com/data/products/5/3.jpg"
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/a/d/d/11-5g-b0bqjmrxqv-oneplus-original-imagmugyrbakf2ry.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/x/s/9/11-5g-b0bqjmrxqv-oneplus-original-imagmugytvphq8xf.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/y/w/u/11-5g-b0bqjmrxqv-oneplus-original-imagmugybrzcf9qj.jpeg?q=70"
       ]
     },
     {
       "id": 6,
-      "title": "MacBook Pro",
-      "trending": true,
+      "title": "Nothing Phone 2",
       "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
       "price": 1749,
       "discountPercentage": 11.02,
       "rating": 4.57,
       "stock": 83,
-      "brand": "Apple",
-      "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+      "brand": "Nothing",
+      "category": "smartphones",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/i/s/b/-original-imagrdefh2xgenzz.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/6/1.png",
-        "https://i.dummyjson.com/data/products/6/2.jpg",
-        "https://i.dummyjson.com/data/products/6/3.png",
-        "https://i.dummyjson.com/data/products/6/4.jpg"
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/v/m/r/-original-imagrdwyxhamgvmg.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/i/i/a/-original-imagrdefjfg5y45r.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/c/q/l/-original-imagrdef2ggvx6fy.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/d/t/r/-original-imagrdefb6a5gaqw.jpeg?q=70"
       ]
     },
     {
       "id": 7,
-      "title": "Samsung Galaxy Book",
+      "title": "HP 255 G8",
       "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
       "price": 1499,
       "discountPercentage": 4.15,
       "rating": 4.25,
       "stock": 50,
-      "brand": "Samsung",
+      "brand": "HP",
       "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/n/2/c/255-g8-business-laptop-hp-original-imags7kffgkegkgc.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/7/1.jpg",
-        "https://i.dummyjson.com/data/products/7/2.jpg",
-        "https://i.dummyjson.com/data/products/7/3.jpg",
-        "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/computer/z/g/v/255-g8-business-laptop-hp-original-imags7kfq7a46r2g.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/computer/i/r/v/255-g8-business-laptop-hp-original-imags7kfwszmgwhs.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/computer/b/n/n/255-g8-laptop-business-laptop-hp-original-imags58hse5wfygn.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/computer/p/2/h/255-g8-laptop-business-laptop-hp-original-imags58hhzhzvmac.jpeg?q=70"
       ]
     },
     {
       "id": 8,
-      "title": "Microsoft Surface Laptop 4",
+      "title": "APPLE 2023 Macbook Air M2",
+      "trending": true,
       "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
       "price": 1499,
       "discountPercentage": 10.23,
       "rating": 4.43,
       "stock": 68,
-      "brand": "Microsoft Surface",
+      "brand": "Apple",
       "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/1/s/p/macbook-air-thin-and-light-laptop-apple-original-imagqapken6qgwpk.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/8/1.jpg",
-        "https://i.dummyjson.com/data/products/8/2.jpg",
-        "https://i.dummyjson.com/data/products/8/3.jpg",
-        "https://i.dummyjson.com/data/products/8/4.jpg",
-        "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/v/g/r/macbook-air-thin-and-light-laptop-apple-original-imagqapk6u66vuzc.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/3/e/6/macbook-air-thin-and-light-laptop-apple-original-imagqapkfqaebpqf.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/4/u/j/macbook-air-thin-and-light-laptop-apple-original-imagqapke2eckwtp.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/a/z/q/macbook-air-thin-and-light-laptop-apple-original-imagqapkhhncz6np.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/q/u/a/macbook-air-thin-and-light-laptop-apple-original-imagqapkh5xybstj.jpeg?q=70"
       ]
     },
     {
       "id": 9,
-      "title": "Infinix INBOOK",
+      "title": "Infinix X2 Slim Intel Core i3 11th Gen",
       "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
       "price": 1099,
       "discountPercentage": 11.83,
@@ -152,181 +156,181 @@
       "stock": 96,
       "brand": "Infinix",
       "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/k/k/e/inbook-thin-and-light-laptop-infinix-original-imagpyjduraxwu4m.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/9/1.jpg",
-        "https://i.dummyjson.com/data/products/9/2.png",
-        "https://i.dummyjson.com/data/products/9/3.png",
-        "https://i.dummyjson.com/data/products/9/4.jpg",
-        "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/u/2/e/-original-imagq56ve6jcxegc.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/o/7/b/-original-imagq56vxe5vhbqg.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/j/y/y/-original-imagqdu3dnzhvbgt.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/x/j/f/-original-imagq56vhkxkcghh.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/t/0/l/-original-imagq56vuhdez2kc.jpeg?q=70"
       ]
     },
     {
       "id": 10,
-      "title": "HP Pavilion 15-DK1056WM",
+      "title": "ASUS Vivobook S 14",
       "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
       "price": 1099,
       "discountPercentage": 6.18,
       "rating": 4.43,
       "stock": 89,
-      "brand": "HP Pavilion",
+      "brand": "ASUS",
       "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/3/3/5/-original-imagqdrxqdrxsyty.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/10/1.jpg",
-        "https://i.dummyjson.com/data/products/10/2.jpg",
-        "https://i.dummyjson.com/data/products/10/3.jpg",
-        "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/r/c/o/-original-imagrdqsmufyyscu.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/l2urv680/computer/0/s/z/-original-image333aqzzyesz.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/l2urv680/computer/b/d/5/-original-image333yyunqvfx.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/h/f/0/-original-imagrdqsa4bjqt2b.jpeg?q=70"
       ]
     },
     {
       "id": 11,
-      "title": "perfume Oil",
+      "title": "Bose NOISE CANCELLING HDPHS",
       "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
       "price": 13,
       "discountPercentage": 8.4,
       "rating": 4.26,
       "stock": 65,
-      "brand": "Impression of Acqua Di Gio",
-      "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+      "brand": "Bose",
+      "category": "headphones",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/krs40i80/headphone/6/s/q/noise-cancelling-700-bose-original-imag5gf6uyakqjgg.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/11/1.jpg",
-        "https://i.dummyjson.com/data/products/11/2.jpg",
-        "https://i.dummyjson.com/data/products/11/3.jpg",
-        "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+        "https://rukminim2.flixcart.com/image/128/128/krs40i80/headphone/6/w/h/noise-cancelling-700-bose-original-imag5gf64pz2fjkh.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/krs40i80/headphone/v/g/j/noise-cancelling-700-bose-original-imag5gf6nrfznypa.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/krs40i80/headphone/9/n/u/noise-cancelling-700-bose-original-imag5gf6hprjdmuh.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/krs40i80/headphone/l/f/6/noise-cancelling-700-bose-original-imag5gf6w2ayzzxp.jpeg?q=70"
       ]
     },
     {
       "id": 12,
-      "title": "Brown Perfume",
+      "title": "realme Buds Air 5 Pro",
       "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
       "price": 40,
       "discountPercentage": 15.66,
       "rating": 4,
       "stock": 52,
-      "brand": "Royal_Mirage",
-      "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+      "brand": "realme",
+      "category": "headphones",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/z/n/n/-original-imagsjzc93u5eskr.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/12/1.jpg",
-        "https://i.dummyjson.com/data/products/12/2.jpg",
-        "https://i.dummyjson.com/data/products/12/3.png",
-        "https://i.dummyjson.com/data/products/12/4.jpg",
-        "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/i/4/m/-original-imagsjzcrxtugzbf.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/i/6/i/-original-imagsjzc7rfyccrr.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/headphone/y/x/d/-original-imagsjzcd4g3ns79.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/q/a/y/-original-imagsjzcjnrvepuc.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/u/f/j/-original-imagsjzc7wwpy8zm.jpeg?q=70"
       ]
     },
     {
       "id": 13,
-      "title": "Fog Scent Xpressio Perfume",
+      "title": "boAt Rockerz 510 Super Extra Bass",
       "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
       "price": 13,
       "discountPercentage": 8.14,
       "rating": 4.59,
       "stock": 61,
-      "brand": "Fog Scent Xpressio",
-      "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
+      "brand": "boAt",
+      "category": "headphones",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/l3vxbbk0/headphone/b/v/u/-original-imagewuzqrqktf6m.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/13/1.jpg",
-        "https://i.dummyjson.com/data/products/13/2.png",
-        "https://i.dummyjson.com/data/products/13/3.jpg",
-        "https://i.dummyjson.com/data/products/13/4.jpg",
-        "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/n/f/p/-original-imagg5ndarzkaegn.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/l/l/x/-original-imagg5ndu6whqybq.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/9/j/q/-original-imagg5ndk76aaxtv.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/c/g/o/-original-imagg5ndyzhtgngg.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/e/p/l/-original-imagg5ndew4avyps.jpeg?q=70"
       ]
     },
     {
       "id": 14,
-      "title": "Non-Alcoholic Concentrated Perfume Oil",
+      "title": "SONY WH-XB910N with 30Hrs Battery Life",
+      "trending": true,
       "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
       "price": 120,
       "discountPercentage": 15.6,
       "rating": 4.21,
       "stock": 114,
-      "brand": "Al Munakh",
-      "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+      "brand": "SONY",
+      "category": "headphones",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/kzx1a4w0/headphone/8/m/v/-original-imagbt474adquhhz.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/14/1.jpg",
-        "https://i.dummyjson.com/data/products/14/2.jpg",
-        "https://i.dummyjson.com/data/products/14/3.jpg",
-        "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+        "https://rukminim2.flixcart.com/image/416/416/kzx1a4w0/headphone/r/5/a/-original-imagbt477ezhunvn.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/0/i/l/-original-imagj85kjy6qaat4.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/kzx1a4w0/headphone/h/y/c/-original-imagbt47evagzrz6.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/kzx1a4w0/headphone/j/x/9/-original-imagbt47h4pdwdsc.jpeg?q=70"
       ]
     },
     {
       "id": 15,
-      "title": "Eau De Perfume Spray",
+      "title": "OPPO Enco Air3 Pro",
       "trending": true,
       "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
       "price": 30,
       "discountPercentage": 10.99,
       "rating": 4.7,
       "stock": 105,
-      "brand": "Lord - Al-Rehab",
-      "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+      "brand": "OPPO",
+      "category": "headphones",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/b/a/o/enco-air3-pro-oppo-original-imagqre9rpzrheh3.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/15/1.jpg",
-        "https://i.dummyjson.com/data/products/15/2.jpg",
-        "https://i.dummyjson.com/data/products/15/3.jpg",
-        "https://i.dummyjson.com/data/products/15/4.jpg",
-        "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/p/j/e/enco-air3-pro-oppo-original-imagqre9grnfksyt.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/w/o/r/enco-air3-pro-oppo-original-imagqre9zbejuxza.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/j/q/2/enco-air3-pro-oppo-original-imagqre9my9wxsfx.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/i/q/r/enco-air3-pro-oppo-original-imagqre9npgddqgn.jpeg?q=70"
       ]
     },
     {
       "id": 16,
-      "title": "Hyaluronic Acid Serum",
+      "title": "APPLE Watch Series 8",
       "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
       "price": 19,
       "discountPercentage": 13.31,
       "rating": 4.83,
       "stock": 110,
-      "brand": "L'Oreal Paris",
-      "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+      "brand": "Apple",
+      "category": "smartwatch",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/q/m/q/-original-imaghxg9cwddrghx.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/16/1.png",
-        "https://i.dummyjson.com/data/products/16/2.webp",
-        "https://i.dummyjson.com/data/products/16/3.jpg",
-        "https://i.dummyjson.com/data/products/16/4.jpg",
-        "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/o/d/e/-original-imaghxg9jzmvytrc.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/y/9/d/-original-imaghxg9ge34mr6h.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/8/w/e/-original-imaghxg9jdjv5ysf.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/e/w/n/-original-imaghxg9uthgnw2s.jpeg?q=70"
       ]
     },
     {
       "id": 17,
-      "title": "Tree Oil 30ml",
+      "title": "boAt Wave Beat Call",
       "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
       "price": 12,
       "discountPercentage": 4.09,
       "rating": 4.52,
       "stock": 78,
-      "brand": "Hemani Tea",
-      "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+      "brand": "boAt",
+      "category": "smartwatch",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/p/p/l/-original-imagmfxsmqsdwpqg.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/17/1.jpg",
-        "https://i.dummyjson.com/data/products/17/2.jpg",
-        "https://i.dummyjson.com/data/products/17/3.jpg",
-        "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/3/p/1/-original-imagrt7hgmjyhr6z.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/z/a/i/-original-imagmfxsqwarzedn.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/x/b/w/-original-imagmfxsf8wyhxy5.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/d/y/o/-original-imagmfxsqruwd4ay.jpeg?q=70"
       ]
     },
     {
       "id": 18,
-      "title": "Oil Free Moisturizer 100ml",
+      "title": "SAMSUNG Watch 4",
+      "trending": true,
       "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
       "price": 40,
       "discountPercentage": 13.1,
       "rating": 4.56,
       "stock": 88,
-      "brand": "Dermive",
-      "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+      "brand": "Samsung",
+      "category": "smartwatch",
+      "thumbnail": "https://rukminim2.flixcart.com/image/416/416/l26hdow0/smartwatch/j/r/o/1-4-sm-r870nzkainu-android-samsung-yes-original-imagdhf2ahk7nvmf.jpeg?q=70",
       "images": [
-        "https://i.dummyjson.com/data/products/18/1.jpg",
-        "https://i.dummyjson.com/data/products/18/2.jpg",
-        "https://i.dummyjson.com/data/products/18/3.jpg",
-        "https://i.dummyjson.com/data/products/18/4.jpg",
-        "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
+        "https://rukminim2.flixcart.com/image/416/416/ksxjs7k0/smartwatch/s/g/x/android-sm-r875fzkainu-samsung-yes-original-imag6dthwtevempm.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/128/128/ksxjs7k0/smartwatch/u/3/w/android-sm-r875fzkainu-samsung-yes-original-imag6dthwzwsjz7m.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/l1whaq80/smartwatch/3/a/y/1-4-sm-r870nzkainu-android-samsung-yes-original-imagdcvzgbkgnnt3.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/416/416/l1v1uvk0/smartwatch/l/o/u/1-4-android-sm-r870nzgainu-samsung-yes-original-imagdc7dnxygkx4w.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/128/128/ksxjs7k0/smartwatch/4/u/i/android-sm-r875fzkainu-samsung-yes-original-imag6dthdu5jbb5z.jpeg?q=70"
       ]
     }
   ],
